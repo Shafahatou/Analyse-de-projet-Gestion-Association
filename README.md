@@ -8,7 +8,10 @@ Présentation de mon projet sur Trello : https://trello.com/b/fQdmYSfC/associati
 
 
 
-Diagramme de cas d’utilisation : https://online.visual-paradigm.com/w/yrzfrwqc/diagrams/#diagram:workspace=yrzfrwqc&proj=0&id=2&type=UseCaseDiagram
+Diagramme de cas d’utilisation : 
+
+![Diagramme_Utilisation](https://github.com/Shafahatou/Analyse-de-projet-Gestion-Association/assets/154765711/99c83d0c-92ac-4699-bb9b-c7d99e4e02d0)
+
 
 Diagramme de classe : https://online.visual-paradigm.com/w/psejzxhe/diagrams/#diagram:proj=0&type=ClassDiagram&width=11&height=8.5&unit=inch
 
