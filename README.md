@@ -3,6 +3,9 @@ Mon Wireframe : https://www.figma.com/file/NmgdCJnUjD2spKb8rrLqnH/Projet-Shafa?t
 
 Présentation de mon projet sur Trello : https://trello.com/b/fQdmYSfC/association-dagriculteurs
 
+![17](https://github.com/Shafahatou/Analyse-de-projet-Gestion-Association/assets/154765711/458eb9af-b633-466d-9ac0-d02b52cb40f7)
+
+
 Diagramme de cas d’utilisation : https://online.visual-paradigm.com/w/yrzfrwqc/diagrams/#diagram:workspace=yrzfrwqc&proj=0&id=2&type=UseCaseDiagram
 
 Diagramme de classe : https://online.visual-paradigm.com/w/yrzfrwqc/diagrams/#diagram:workspace=yrzfrwqc&proj=0&id=1&type=ClassDiagram
